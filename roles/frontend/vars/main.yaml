@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.veerakatari.site
+USER_HOST: user.veerakatari.site
+CART_HOST: cart.veerakatari.site
+SHIPPING_HOST: shipping.veerakatari.site
+PAYMENT_HOST: payment.veerakatari.site
